@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/kokka-hachiron-yogen",
  "yomi": "こっかはちろんよげん",
  "category": "歌学書",
- "description": null,
+ "description": {
+  "kind": "歌論書",
+  "era": "寛保2年（1742）",
+  "author": "田安宗武（1715〜1771）",
+  "desc": "荷田在満『国歌八論』に対して、田安宗武がすぐに著した反論。歌は人の心をやわらげ、世を治める助けになると論じ、在満と立場を異にする。"
+ },
  "editions": [
   {
    "pid": "993379",
